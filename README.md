@@ -21,11 +21,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-10-24 16:16 CST）
+## API 状态（最近更新：2025-10-24 20:23 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：75
-- 失败 API 数量：2
+- 成功 API 数量：74
+- 失败 API 数量：3
 - 平均可用率：97.5%
 - 完美可用率（100%）：49 个
 - 高可用率（80%-99%）：27 个
@@ -106,11 +106,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | TV-速播资源 | https://subocaiji.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ✅ | AV-奥斯卡 | https://aosikazy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-360资源 | https://360zy.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | TV-iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
+| ❌ | AV-奥斯卡 | https://aosikazy.com/api.php/provide/vod | 95 | 5 | 95.0% | 1 |
 | ✅ | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
-| 🚨 | TV-小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 86 | 14 | 86.0% | 12 |
+| 🚨 | TV-小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 85 | 15 | 85.0% | 13 |
 | ✅ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 83 | 17 | 83.0% | 0 |
 | ✅ | TV-卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 83 | 17 | 83.0% | 0 |
 | 🚨 | TV-魔爪资源 | https://mozhuazy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
