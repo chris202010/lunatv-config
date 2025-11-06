@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-06 08:56 CST）
+## API 状态（最近更新：2025-11-06 12:18 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：74
@@ -111,8 +111,8 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | AV-jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | TV-iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
-| 🚨 | TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 36 | 64 | 36.0% | 64 |
-| 🚨 | TV-小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 12 | 88 | 12.0% | 88 |
+| 🚨 | TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 35 | 65 | 35.0% | 65 |
+| 🚨 | TV-小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 11 | 89 | 11.0% | 89 |
 | 🚨 | TV-魔爪资源 | https://mozhuazy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 <!-- API_TABLE_END -->
 
