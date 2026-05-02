@@ -2,6 +2,7 @@ name: Fork-sync
 
 permissions:
   contents: write
+  actions: write
 
 on:
   schedule:
